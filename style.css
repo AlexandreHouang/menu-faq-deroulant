@@ -1,0 +1,40 @@
+.faq-wrapper h3 {
+	font-family: helvetica;
+	text-transform: uppercase;
+	padding: 10px;
+	margin: 6px 0;
+
+	color: #333;
+	font-weight: bold;
+	background: -webkit-linear-gradient(top, #f3b8a8, #fef6f4);
+}
+
+.faq-wrapper div {
+	font-family: helvetica;
+	cursor: pointer;
+	display: block;
+	height: auto;
+	text-align: left;
+	padding: 10px;
+	margin: 0;
+
+	color: #333;
+	font-size: 100%;
+	border-top: 1px solid #ddd;
+	border-bottom: 0;
+	font-weight: bold;
+}
+
+.faq-wrapper article {
+	padding: 0 10px;
+	margin: 0;
+	border: 1px solid #ddd;
+}
+
+.faq-article-hidden {
+	display: none;
+}
+
+li {
+	padding: 6px
+}
